@@ -1,0 +1,9 @@
+[submodule "rema_plusplus"]
+	path = rema_plusplus
+	url = git@github.com:gustavojm/rema_plusplus
+[submodule "CIAA_NXP_board"]
+	path = CIAA_NXP_board
+	url = git@github.com:gustavojm/CIAA_NXP_board
+[submodule "lpc_chip_43xx"]
+	path = lpc_chip_43xx
+	url = git@github.com:gustavojm/lpc_chip_43xx
